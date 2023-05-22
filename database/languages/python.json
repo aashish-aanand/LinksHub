@@ -12,5 +12,12 @@
     "url": "https://www.learnpython.org/",
     "category": "languages",
     "subcategory": "python"
+  },
+  {
+    "name": "Python",
+    "description": "Learn Python through interactive Python Tutorial and exercises and validate your skill with certificate.",
+    "url": "https://www.learnpython.org/",
+    "category": "languages",
+    "subcategory": "python"
   }
 ]
